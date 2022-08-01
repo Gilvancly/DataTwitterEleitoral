@@ -11,6 +11,6 @@ Inteligência Artificial
 Etapa 02 - Coletando os dados
 Twitter como fonte de dados
 
- Etapa03 - EDA, Storytelling e Visualização dos dados
+Etapa03 - EDA, Storytelling e Visualização dos dados
 
 Etapa04 - Análise de sentimento
