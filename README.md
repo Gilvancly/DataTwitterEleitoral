@@ -4,7 +4,6 @@ Etapa 01 - Entendendo o problema
 - Proposta para a construção de uma aplicação que realiza análise de sentimento dos candidatos à presidência.
 - Análise de Sentimentos - Extração de sentimentos a partir de um texto (Positivo, Negativo, Neutro)
 - Inteligência Artificial
-- [Projeto Prático - DataTwitter Eleitoral](https://ivory-fear-ca8.notion.site/Projeto-Pr-tico-DataTwitter-Eleitoral-df50ef26b15844798b5a6bf2d2a7ab37)
 
 Etapa 02 - Coletando os dados
 
