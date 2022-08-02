@@ -1,4 +1,4 @@
-# PROJETO PRATICO - Data Twitter Eleitoral
+# PROJETO PRÁTICO - Data Twitter Eleitoral
 
 Projeto Prático - Data Twitter Eleitoral
 
